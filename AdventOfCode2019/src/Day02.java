@@ -1,5 +1,3 @@
-import java.util.List;
-
 public class Day02 {
 
 	static int[] data;
