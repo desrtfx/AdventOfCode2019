@@ -65,7 +65,6 @@ public class Day04 {
     }
  
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
         System.out.printf("Part 1: number of passwords is: %d%n", part01());
         System.out.printf("Part 2: number of passwords is: %d%n", part02());
     }

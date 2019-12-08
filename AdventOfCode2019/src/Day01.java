@@ -40,7 +40,6 @@ public class Day01 {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.printf("Part 1 result: %d%n", part01(data));
 		System.out.printf("Part 2 result: %d%n", part02(data));
 
